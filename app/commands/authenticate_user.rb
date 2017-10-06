@@ -1,3 +1,5 @@
+# app/commands/authenticate_user.rb
+
 class AuthenticateUser
   prepend SimpleCommand
 
@@ -7,7 +9,7 @@ class AuthenticateUser
   end
 
   def call
-    JsonWebToken.encode(user_id: user.id) if user
+    JsonWebToken::encode(user_id: user.id) if user
   end
 
   private

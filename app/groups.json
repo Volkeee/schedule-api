@@ -1,0 +1,2408 @@
+[
+  {
+    "name": "ГР-16-1",
+    "id": "1024",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІ-16-4",
+    "id": "1023",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ВНГ-15-1",
+    "id": "1028",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІ-16-3",
+    "id": "1022",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НБт-16-1",
+    "id": "1064",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГР-16-2",
+    "id": "1025",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІ-16-5і",
+    "id": "1026",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІ-16-2",
+    "id": "1021",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІ-16-1",
+    "id": "1020",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ВНГ-15-2",
+    "id": "1029",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НБт-15-1",
+    "id": "1059",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІ-16-6і",
+    "id": "1027",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ВНГ-15-1к",
+    "id": "1058",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПСс-13-4",
+    "id": "1056",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПСс-13-3",
+    "id": "1055",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПСп-13-2",
+    "id": "1054",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПСп-13-1",
+    "id": "1053",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПСпт-15-1",
+    "id": "1052",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ВНГ-14-5",
+    "id": "1051",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ВНГ-14-4",
+    "id": "1050",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ВНГ-14-3",
+    "id": "1049",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ВНГ-14-2",
+    "id": "1048",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ВНГ-14-1",
+    "id": "1047",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ВК-14-1",
+    "id": "1046",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПСс-14-4",
+    "id": "1045",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПСс-14-3",
+    "id": "1044",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПСп-14-1",
+    "id": "1043",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ВК-15-1",
+    "id": "1042",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПСс-15-2",
+    "id": "1041",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ПСп-15-1",
+    "id": "1040",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ВНГ-16-1к",
+    "id": "1039",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПСт-16-1",
+    "id": "1038",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ВК-16-1",
+    "id": "1037",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІ-16-8",
+    "id": "1036",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІ-16-7",
+    "id": "1035",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НСіа-15-1",
+    "id": "1034",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НБ-15-2",
+    "id": "1033",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НБ-15-1",
+    "id": "1032",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ВНГ-15-4",
+    "id": "1031",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ВНГ-15-3",
+    "id": "1030",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НБ-14-1",
+    "id": "1065",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НБ-14-2",
+    "id": "1066",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НБ-14-3",
+    "id": "1067",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НБ-14-4",
+    "id": "1068",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НСіа-14-1",
+    "id": "1069",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НСіа-14-2",
+    "id": "1070",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НСіа-14-3",
+    "id": "1071",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ВНГ-13-1",
+    "id": "1072",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ВНГ-13-2",
+    "id": "1073",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ВНГ-13-3",
+    "id": "1074",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ВНГ-13-4",
+    "id": "1075",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ВНГ-13-5",
+    "id": "1076",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НБ-13-1",
+    "id": "1077",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НБ-13-2",
+    "id": "1078",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НБ-13-3",
+    "id": "1079",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НСіа-13-1",
+    "id": "1080",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НСіа-13-3",
+    "id": "1081",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІ-16-10",
+    "id": "1082",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АТ-16-1",
+    "id": "1084",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АК-16-1",
+    "id": "1085",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АКТ-15-1",
+    "id": "1086",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АКТ-14-1",
+    "id": "1087",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АКТт-16-2",
+    "id": "1088",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НО-15-1",
+    "id": "1092",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕКм-17-1",
+    "id": "1484",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АКТт-15-2",
+    "id": "1091",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АТ-15-1",
+    "id": "1093",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕК-16-1",
+    "id": "1095",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ПТ-16-1",
+    "id": "1096",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ОП-16-1",
+    "id": "1097",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ФН-16-1",
+    "id": "1098",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕКП-15-1",
+    "id": "1099",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ОА-15-1",
+    "id": "1100",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ФН-15-1",
+    "id": "1101",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НО-14-1",
+    "id": "1102",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕКП-14-1",
+    "id": "1103",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕКП-14-2",
+    "id": "1104",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕК-16-1К",
+    "id": "1105",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПТ-16-1К",
+    "id": "1106",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ФН-14-1",
+    "id": "1107",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ФН-16-1К",
+    "id": "1108",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ОА-14-1",
+    "id": "1109",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ОП-16-1К",
+    "id": "1110",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НОт-16-1",
+    "id": "1111",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "МН-16-1",
+    "id": "1113",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МН-16-2",
+    "id": "1114",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АТ-14-1",
+    "id": "1115",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АТт-16-1",
+    "id": "1117",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "МО-15-1",
+    "id": "1119",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МО-15-2",
+    "id": "1120",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІОм-17-2",
+    "id": "1411",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НОт-15-1",
+    "id": "1122",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АК-16-2",
+    "id": "1124",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ТР-16-1",
+    "id": "1125",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "СІ-15-1",
+    "id": "1126",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "СІ-14-1",
+    "id": "1127",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "СІт-16-2",
+    "id": "1128",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ТР-16-1К",
+    "id": "1129",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПІ-15-1",
+    "id": "1309",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "КІ-17-1",
+    "id": "1480",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ІП-17-1",
+    "id": "1479",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "СІт-15-3",
+    "id": "1133",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АТ-13-1",
+    "id": "1134",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НЗ-16-1",
+    "id": "1141",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГФ-15-1",
+    "id": "1143",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГНГ-15-1",
+    "id": "1142",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АТт-15-1",
+    "id": "1140",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГНГ-14-1",
+    "id": "1144",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГНГ-14-2",
+    "id": "1145",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГНГт-16-1",
+    "id": "1146",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГФ-14-1",
+    "id": "1147",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГФа-14-2",
+    "id": "1148",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГФ-14-2",
+    "id": "1149",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕКП-13-1",
+    "id": "1150",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕКПт-15-3",
+    "id": "1151",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ОА-13-1",
+    "id": "1152",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ОАт-15-2",
+    "id": "1153",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ФН-13-1",
+    "id": "1154",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ФНт-15-2",
+    "id": "1155",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ФНт-15-3",
+    "id": "1156",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ІМ-15-1",
+    "id": "1159",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ТЗВ-15-1",
+    "id": "1160",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "МО-14-1",
+    "id": "1161",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МО-14-2",
+    "id": "1162",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МН-16-1К",
+    "id": "1163",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МО-13-1",
+    "id": "1164",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МО-13-2",
+    "id": "1165",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МОт-15-3",
+    "id": "1166",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "КМВ-14-1",
+    "id": "1168",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "КМВт-16-1",
+    "id": "1169",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МНм-16-1",
+    "id": "1171",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕТ-16-1",
+    "id": "1172",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ІП-16-1",
+    "id": "1178",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕТ-16-2",
+    "id": "1174",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МТ-16-1",
+    "id": "1221",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АТм-16-1",
+    "id": "1222",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "КІ-16-1",
+    "id": "1307",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ІП-16-2",
+    "id": "1180",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "КІ-16-2",
+    "id": "1308",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ТНМ-14-1",
+    "id": "1182",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТНМт-16-1",
+    "id": "1183",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТЗВ-14-1",
+    "id": "1184",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ТЗВт-16-1",
+    "id": "1185",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕКм-16-1",
+    "id": "1187",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПТм-16-1",
+    "id": "1188",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕКРм-16-1",
+    "id": "1189",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ОПм-16-1",
+    "id": "1191",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ФНм-16-1",
+    "id": "1193",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГНГ-13-1",
+    "id": "1197",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГНГ-13-2",
+    "id": "1198",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГНГт-15-1",
+    "id": "1199",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГФ-13-1",
+    "id": "1200",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГФа-13-2",
+    "id": "1201",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГФ-13-2",
+    "id": "1202",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НЗГм-16-1",
+    "id": "1203",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НЗІм-16-1",
+    "id": "1204",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НЗФм-16-1",
+    "id": "1206",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ДМт-16-1",
+    "id": "1383",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НЗФм-16-2а",
+    "id": "1208",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НЗФм-16-2гдс",
+    "id": "1210",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТУ-16-1",
+    "id": "1211",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ТУ-16-2",
+    "id": "1212",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ТР-15-1",
+    "id": "1213",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТР-14-1",
+    "id": "1214",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТР-14-2",
+    "id": "1215",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АМ-17-1",
+    "id": "1433",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ТУм-16-1",
+    "id": "1217",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕТ-15-1",
+    "id": "1223",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕТм-15-2",
+    "id": "1224",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПБ-15-1",
+    "id": "1225",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "МВТ-15-1",
+    "id": "1226",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НіОм-16-1",
+    "id": "1227",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "Б-16-1",
+    "id": "1236",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АКПм-16-1",
+    "id": "1233",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АМ-16-1",
+    "id": "1234",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АМ-16-2",
+    "id": "1235",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕТ-14-1",
+    "id": "1237",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕТм-14-2",
+    "id": "1238",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "КМВт-15-1",
+    "id": "1240",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "А-15-1",
+    "id": "1241",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "А-15-2",
+    "id": "1242",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "А-14-1",
+    "id": "1243",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "А-14-2",
+    "id": "1244",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АМм-17-1",
+    "id": "1435",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕТт-16-1",
+    "id": "1247",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "Б-15-1",
+    "id": "1248",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПБ-14-1",
+    "id": "1249",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІОм-17-1",
+    "id": "1409",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТНМт-15-1",
+    "id": "1251",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АКСм-16-1",
+    "id": "1252",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГКЗт-13-1",
+    "id": "1303",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПБт-16-1",
+    "id": "1255",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АТм-17-1",
+    "id": "1412",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "МВТ-14-1",
+    "id": "1257",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МВТт-16-1",
+    "id": "1258",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕТ-13-1",
+    "id": "1259",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕТм-13-2",
+    "id": "1260",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТЗВ-15-1К",
+    "id": "1261",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "Б-14-1",
+    "id": "1263",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АМ-17-2",
+    "id": "1434",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ІС-16-1",
+    "id": "1265",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ДМ-15-1",
+    "id": "1266",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІ-17-1к",
+    "id": "1403",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АТ-17-1",
+    "id": "1406",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ДМт-15",
+    "id": "1269",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ФІЛ-16-1",
+    "id": "1270",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ПФ-15-1",
+    "id": "1271",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ПФ-14-1",
+    "id": "1272",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ДМ-14-1",
+    "id": "1274",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ДМ-14-2",
+    "id": "1275",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕКО-16-1",
+    "id": "1276",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТЗ-16-1",
+    "id": "1277",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГЗ-16-1",
+    "id": "1278",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГЗ-16-2",
+    "id": "1279",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГЗ-16-3",
+    "id": "1280",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ПЕ-15-1",
+    "id": "1281",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГКЗ-15-1",
+    "id": "1282",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГКЗ-15-2",
+    "id": "1283",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ПФ-13-1",
+    "id": "1284",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГРм-16-1",
+    "id": "1285",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГРм-16-2",
+    "id": "1286",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГРм-16-3",
+    "id": "1287",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕТт-15-1",
+    "id": "1288",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПБт-15-1",
+    "id": "1289",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПБ-13-1",
+    "id": "1290",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МВТ-13-1",
+    "id": "1291",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МВТт-15-1",
+    "id": "1292",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПЕ-14-1",
+    "id": "1293",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПЕ-14-2",
+    "id": "1294",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПЕт-14-1",
+    "id": "1295",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГКЗ-14-1",
+    "id": "1296",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГКЗ-14-2",
+    "id": "1297",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГКЗ-14-3",
+    "id": "1298",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕТМм-16-1",
+    "id": "1301",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГКЗт-14-1",
+    "id": "1302",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПІ-15-2",
+    "id": "1317",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "КІ-15-1",
+    "id": "1311",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "КІ-14-1",
+    "id": "1312",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ПІт-16-3",
+    "id": "1313",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕКм-16-2",
+    "id": "1378",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПІт-16-4",
+    "id": "1315",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "КІт-16-2",
+    "id": "1316",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ІП-17-2",
+    "id": "1482",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "КІ-17-2",
+    "id": "1481",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПІт-15-3",
+    "id": "1320",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПТт-16-1",
+    "id": "1483",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "КІт-15-2",
+    "id": "1322",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ІПм-16-1",
+    "id": "1323",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ІПм-16-2",
+    "id": "1324",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "КІм-16-1",
+    "id": "1326",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІВм-16-1",
+    "id": "1327",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІВм-16-2",
+    "id": "1328",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІВм-16-3",
+    "id": "1329",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІВм-16-4і",
+    "id": "1331",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІВм-16-5і",
+    "id": "1332",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПМКм-16-1",
+    "id": "1333",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ДМт-15-1",
+    "id": "1384",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПЕт-16-3",
+    "id": "1385",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПМЗм-16-1",
+    "id": "1343",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПММм-16-1",
+    "id": "1336",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МВТ-15-2м",
+    "id": "1337",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕТ-15-3м",
+    "id": "1339",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПМВм-16-1",
+    "id": "1342",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МТПм-16-1",
+    "id": "1345",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МТТм-16-1",
+    "id": "1347",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПЕ-13-1",
+    "id": "1348",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПЕт-13-1",
+    "id": "1349",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГКЗ-13-1",
+    "id": "1350",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГКЗ-13-2",
+    "id": "1351",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГКЗ-13-3",
+    "id": "1352",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІТм-16-1",
+    "id": "1354",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІТм-16-2",
+    "id": "1355",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІТм-16-3",
+    "id": "1356",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІТм-16-4",
+    "id": "1357",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІТс-16-1",
+    "id": "1358",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІТс-16-2",
+    "id": "1359",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ФІЛм-16-1",
+    "id": "1361",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПІ-14-1",
+    "id": "1363",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕКОм-16-1",
+    "id": "1367",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТЗКм-16-1",
+    "id": "1368",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГЗЗм-16-1",
+    "id": "1370",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГЗОм-16-1",
+    "id": "1371",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГЗГм-16-1",
+    "id": "1373",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГЗІм-16-1",
+    "id": "1375",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ІС-16-1К",
+    "id": "1377",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПТм-16-2",
+    "id": "1382",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГКЗт-16-1",
+    "id": "1386",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТЗВт-15-1",
+    "id": "1387",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МНк-17-1",
+    "id": "1448",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МН-17-1",
+    "id": "1447",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІВмм-17-4",
+    "id": "1544",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ІП-17-3",
+    "id": "1545",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІВм-17-3",
+    "id": "1444",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІВм-17-2",
+    "id": "1443",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІВм-17-1",
+    "id": "1442",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІТм-17-4",
+    "id": "1441",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІТм-17-3",
+    "id": "1440",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІ-17-1",
+    "id": "1388",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІ-17-2",
+    "id": "1389",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІВ-17-1к",
+    "id": "1390",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІ-17-5і",
+    "id": "1391",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГР-17-1",
+    "id": "1392",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГР-17-2",
+    "id": "1393",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГР-17-1к",
+    "id": "1394",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ВК-17-1",
+    "id": "1397",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІТ-17-1к",
+    "id": "1398",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ІС-17-1",
+    "id": "1399",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІ-17-10",
+    "id": "1400",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ІС-17-1к",
+    "id": "1401",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ПМ-17-1",
+    "id": "1413",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АТ-17-1к",
+    "id": "1408",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПМ-16-1",
+    "id": "1431",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ПМ-17-1к",
+    "id": "1417",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІТм-17-2",
+    "id": "1439",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПМКм-17-1",
+    "id": "1422",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІТм-17-1",
+    "id": "1438",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПММм-17-1",
+    "id": "1424",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ІСм-17-1",
+    "id": "1428",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ПМВм-17-1",
+    "id": "1426",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПМЗм-17-",
+    "id": "1427",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ФІЛ-17-1",
+    "id": "1429",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ФІЛм-17-1",
+    "id": "1432",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "Б-17-1",
+    "id": "1437",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МОк-16-1",
+    "id": "1449",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МНм-17-1",
+    "id": "1450",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МНм-17-2",
+    "id": "1451",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕК-17-1",
+    "id": "1452",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕКт-17-1",
+    "id": "1453",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ОП-17-1",
+    "id": "1454",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ОПт-17-1",
+    "id": "1455",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ФН-17-1",
+    "id": "1456",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ФНт-17-1",
+    "id": "1457",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ПТ-17-1",
+    "id": "1458",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ПТт-17-1",
+    "id": "1459",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГРм-17-1",
+    "id": "1460",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГРм-17-2",
+    "id": "1461",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕТ-17-1",
+    "id": "1462",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕТ-17-2",
+    "id": "1463",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "Бм-17-1",
+    "id": "1464",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НІВм-17-5і",
+    "id": "1465",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТУ-17-1",
+    "id": "1467",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕТ-17-1к",
+    "id": "1469",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МТ-17-1",
+    "id": "1470",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МТ-17-1к",
+    "id": "1548",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "МТП-17-1",
+    "id": "1472",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТУ-17-1к",
+    "id": "1474",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТУм-17-1",
+    "id": "1475",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕКПт-16-1",
+    "id": "1476",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ОАт-16-1",
+    "id": "1477",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ФНт-16-1",
+    "id": "1478",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕКРм-17-1",
+    "id": "1485",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ОПм-17-1",
+    "id": "1486",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ФНм-17-1",
+    "id": "1487",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "МДм-17-1",
+    "id": "1488",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ІП-17-3к",
+    "id": "1489",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ІП-17-4к",
+    "id": "1490",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НЗ-17-1",
+    "id": "1491",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НЗГм-17-1",
+    "id": "1492",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НЗІм-17-1",
+    "id": "1493",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НЗФм-17-1",
+    "id": "1494",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НЗФм-17-2",
+    "id": "1495",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "КІ-17-1к",
+    "id": "1496",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГФ-15-2",
+    "id": "1497",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕКО-17-1",
+    "id": "1498",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ТЗ-17-1",
+    "id": "1499",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "КІт-16-1",
+    "id": "1500",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГЗ-17-1",
+    "id": "1501",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГЗ-1-2",
+    "id": "1502",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГЗ-17-2",
+    "id": "1503",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "НЗ-17-1к",
+    "id": "1504",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ІПм-17-1",
+    "id": "1506",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ІПм-17-2",
+    "id": "1507",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "КІм-17-1",
+    "id": "1508",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "КІм-17-2",
+    "id": "1509",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АК-17-1",
+    "id": "1510",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АК-17-2",
+    "id": "1511",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ТР-17-1",
+    "id": "1512",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АК-17-1к",
+    "id": "1513",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ЕКОт-17-1",
+    "id": "1514",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕКОм-17-1",
+    "id": "1515",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТЗКм-17-1",
+    "id": "1516",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГЗІм-17-1",
+    "id": "1517",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕТСм-17-1",
+    "id": "1526",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ПЕт-16-1",
+    "id": "1525",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГЗт-17-1",
+    "id": "1521",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГЗГм-17-1",
+    "id": "1522",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГЗЗм-17-1",
+    "id": "1523",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ГЗОм-17-1",
+    "id": "1524",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МТТм-17-1",
+    "id": "1528",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МТПм-17-1",
+    "id": "1529",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕТМм-17-1",
+    "id": "1530",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ЕТСм-16-1",
+    "id": "1531",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АК-17-2к",
+    "id": "1533",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ТР-17-1к",
+    "id": "1534",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "ТРт-16-1",
+    "id": "1535",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "АКСм-17-1",
+    "id": "1536",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "АКПм-17-1",
+    "id": "1537",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІ-17-4і",
+    "id": "1542",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "ГР-17-3",
+    "id": "1540",
+    "faculty": "",
+    "has_subgroups": false
+  },
+  {
+    "name": "МН-17-2",
+    "id": "1546",
+    "faculty": "",
+    "has_subgroups": true
+  },
+  {
+    "name": "НІ-17-3",
+    "id": "1547",
+    "faculty": "",
+    "has_subgroups": false
+  }
+]
