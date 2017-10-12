@@ -1,5 +1,5 @@
 class Error
-  def self.not_authorized
+  def self.unauthorized
     { response: {
       code: 401,
       name: 'Not authorized',
@@ -19,7 +19,7 @@ class Error
     { response: {
       code: 409,
       name: 'Resource conflict',
-      description: 'Info already exist. Try different name'
+      description: 'Info already exist. Try different one'
     } }
   end
 end

@@ -1,6 +1,6 @@
 # app/commands/authorize_api_request.rb
 
-class AuthorizeApiRequest
+class  AuthorizeApiRequest
   prepend SimpleCommand
 
   def initialize(headers = {})

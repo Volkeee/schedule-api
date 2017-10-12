@@ -1,15 +1,22 @@
 class ApplicationController < ActionController::API
-  # before_action :authenticate_request
+  include ActionController::HttpAuthentication::Token::ControllerMethods
+  before_action :authenticate
 
-  attr_reader :current_user
+  # attr_reader :current_user
   # helper_method :current_user
 
   private
 
-  def authenticate_request
-    @current_user = AuthorizeApiRequest.call(request.headers).result
+  #
+  # def authenticate_request
+  #   @current_user = AuthorizeApiRequest.call(request.headers).result
+  #
+  #   render json: Error.unauthorized, status: 401 unless @current_user
+  # end
 
-    render json: { error: 'Not Authorized' }, status: 401 unless @current_user
+  def authenticate
+    authenticate_or_request_with_http_token do |token, _options|
+      @current_user = User.find_by(auth_token: token)
+    end
   end
-
 end

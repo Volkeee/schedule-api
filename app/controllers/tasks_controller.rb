@@ -1,41 +1,51 @@
 class TasksController < ApplicationController
   def index
-    @user = User.find(params[:user_id])
+    @user = User.token_from_headers(token)
     @tasks = @user.tasks.all
     render json: @tasks
   end
 
   def create
-    @user = User.find(user_params[:name])
+    @user = User.token_from_headers(token)
     if !@user.nil?
-      @task = @user.tasks.create(task_params)
+      @json = task_params
+      @json.as_json.each do |k, v|
+        @user.tasks.create(v)
+      end
+      # @user.tasks.create(task_params)
     else
       render json: Error.not_found, status: 404
     end
   end
 
   def update
-    @user = User.find(user_params[:name])
+    @user = User.token_from_headers(token)
     if @user.tasks.exists?(task_params['id'])
       @task = @user.tasks.update(task_params)
     else
       render json: Error.not_found, status: 404
-      errors.add(:not_found, 'No such group with ID ' + params[:id])
+      errors.add(:not_found, 'No such task with ID ' + params[:id] +
+          'that belongs to user ' + @user.name)
     end
   end
 
   def show
-    @user = User.find(params[:user_id])
-    @task = @user.tasks.find(params[:id])
+    if !Task.exists?(params[:id])
+      @user = User.find(params[:user_id])
+      @task = @user.tasks.find(params[:id])
+      render json: @task
+    else
+      render json: Error.not_found, status: 404
+    end
   end
 
   private
 
-  def user_params
-    params.require(:user).permit(:name)
+  def task_params
+    params.permit(tasks: [:title, :description, :lesson_name, :date])
   end
 
-  def task_params
-    params.require(:task).permit(:title, :text, :lesson_id, :date)
+  def token
+    request.headers['Authorization'].remove('Token token=')
   end
 end

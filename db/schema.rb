@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171005173722) do
+ActiveRecord::Schema.define(version: 20171012165129) do
 
   create_table "groups", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string "name"
@@ -19,9 +19,8 @@ ActiveRecord::Schema.define(version: 20171005173722) do
     t.datetime "updated_at", null: false
   end
 
-  create_table "items", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "roles", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string "name"
-    t.text "description"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
@@ -29,7 +28,7 @@ ActiveRecord::Schema.define(version: 20171005173722) do
   create_table "tasks", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.text "title"
     t.text "description"
-    t.integer "lesson_name"
+    t.string "lesson_name"
     t.date "date"
     t.bigint "user_id"
     t.datetime "created_at", null: false
@@ -43,7 +42,12 @@ ActiveRecord::Schema.define(version: 20171005173722) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.integer "group_id"
+    t.string "origin"
+    t.string "auth_token"
+    t.bigint "role_id"
+    t.index ["role_id"], name: "index_users_on_role_id"
   end
 
   add_foreign_key "tasks", "users"
+  add_foreign_key "users", "roles"
 end
