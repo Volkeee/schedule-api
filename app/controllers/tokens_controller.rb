@@ -1,0 +1,3 @@
+class TokensController < ApplicationController
+
+end

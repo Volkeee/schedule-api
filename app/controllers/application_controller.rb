@@ -16,7 +16,7 @@ class ApplicationController < ActionController::API
 
   def authenticate
     authenticate_or_request_with_http_token do |token, _options|
-      @current_user = User.find_by(auth_token: token)
+      @current_user = User.token_from_headers(token)
     end
   end
 end

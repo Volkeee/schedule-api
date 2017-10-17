@@ -1,17 +1,16 @@
 class TasksController < ApplicationController
   def index
-    @user = User.token_from_headers(token)
-    @tasks = @user.tasks.all
+    @tasks = @current_user.tasks.all
     render json: @tasks
   end
 
   def create
-    @user = User.token_from_headers(token)
-    if !@user.nil?
+    if !@current_user.nil?
       @json = task_params
       @json.as_json.each do |k, v|
-        @user.tasks.create(v)
+        @current_user.tasks.create(v)
       end
+      @current_user.save
       # @user.tasks.create(task_params)
     else
       render json: Error.not_found, status: 404
@@ -19,20 +18,18 @@ class TasksController < ApplicationController
   end
 
   def update
-    @user = User.token_from_headers(token)
-    if @user.tasks.exists?(task_params['id'])
-      @task = @user.tasks.update(task_params)
+    if @current_user.tasks.exists?(task_params['id'])
+      @task = @current_user.tasks.update(task_params)
     else
       render json: Error.not_found, status: 404
       errors.add(:not_found, 'No such task with ID ' + params[:id] +
-          'that belongs to user ' + @user.name)
+          'that belongs to user ' + @current_user.name)
     end
   end
 
   def show
     if !Task.exists?(params[:id])
-      @user = User.find(params[:user_id])
-      @task = @user.tasks.find(params[:id])
+      @task = @current_user.tasks.find(params[:id])
       render json: @task
     else
       render json: Error.not_found, status: 404
@@ -46,6 +43,6 @@ class TasksController < ApplicationController
   end
 
   def token
-    request.headers['Authorization'].remove('Token token=')
+    request.headers['Authorization'].remove('Token ')
   end
 end
