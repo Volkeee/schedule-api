@@ -2,7 +2,7 @@ class UsersController < ApplicationController
   skip_before_action :authenticate, only: [:create]
 
   def new
-    @user = User.new(params)
+    @user = User.new(user_params)
   end
 
   def create
@@ -10,7 +10,7 @@ class UsersController < ApplicationController
     @group = Group.find(@group_params[:id])
 
     @user = @group.users.new(user_params)
-    @user.params_for_device(device_params)
+    @user.tokens.new(device_params)
     if User.exists?(name: @user.name, email: @user.email, origin: @user.origin)
       @user = User.find_by_name(@user.name)
       render json: Error.conflict.merge(user: @user),

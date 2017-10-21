@@ -7,7 +7,7 @@ class TasksController < ApplicationController
   def create
     if !@current_user.nil?
       @json = task_params
-      @json.as_json.each do |k, v|
+      @json.as_json.each do |_k, v|
         @current_user.tasks.create(v)
       end
       @current_user.save

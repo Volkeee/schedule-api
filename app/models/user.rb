@@ -38,7 +38,7 @@ class User < ApplicationRecord
   end
 
   def generate_auth_token
-    @hash = { token: SecureRandom.uuid.delete('-'),
+    @hash = { token: '',
               device_manufacturer: @parameters['device_manufacturer'],
               device_model: @parameters['device_model'] }
   end
