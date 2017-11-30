@@ -1,5 +1,6 @@
 class GroupsController < ApplicationController
   prepend SimpleCommand
+  skip_before_action :authenticate_request, only: [:index]
 
   def index
     @group = Group.all
