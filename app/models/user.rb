@@ -4,6 +4,8 @@ class User < ApplicationRecord
   has_many :tokens
   has_one :role
   require 'securerandom'
+
+  attr_accessor :current_token
   after_create :set_auth_token
 
   def params_for_device(params)
